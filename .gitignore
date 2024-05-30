@@ -1,0 +1,7 @@
+.venv
+.venv/*
+notes/*
+etl/*
+.ssh/*
+.env
+airflow/logs/*
